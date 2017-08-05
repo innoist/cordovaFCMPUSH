@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "493392728130",
+    "firebase_url": "https://level-surfer-175303.firebaseio.com",
+    "project_id": "level-surfer-175303",
+    "storage_bucket": "level-surfer-175303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493392728130:android:d46674ae8437b415",
+        "android_client_info": {
+          "package_name": "com.siliconmalta.phonedice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493392728130-gnb0k1u2af5rhjf7p3m707hva17qpnpb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "493392728130-avmb6rm4gmgnj7e1v3j8g9f8i5p3fh46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siliconmalta.phonedice",
+            "certificate_hash": "79990ff52fece17342533c5adca2a19464fa072c"
+          }
+        },
+        {
+          "client_id": "493392728130-q6a929lq73278drkf00tgf4j0alnv6df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRJGPESNJgUeWWfMyUf4j-0-ToG5KMRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493392728130-b3u724aq8mj0q87utkmeius9oo2tsrjj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siliconmalta.phonedice"
+              }
+            },
+            {
+              "client_id": "493392728130-gnb0k1u2af5rhjf7p3m707hva17qpnpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
